@@ -6,8 +6,8 @@ A simple calculator using HTML, CSS &amp; Javascript
 ![](4.jpg)
 ![](5.jpg)
 
-##Technologies Used:
-``bash
+## Technologies Used:
+```bash
 HTML
 CSS(style/presentation)
 JAVASCRIPT(logic/working)
